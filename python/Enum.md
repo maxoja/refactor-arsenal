@@ -1,4 +1,4 @@
-The use of enum in python came later as a class we can inherit from. The uses are mostly straight forward but there're some tricky tricks worth knowing as well.
+The use of enum in python came later as a class we can inherit from. The uses are mostly straight forward but there're some handy tricks worth knowing.
 
 1. [What to import](#import)
 2. [Simple enum](#simple-use)
